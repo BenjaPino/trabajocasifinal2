@@ -14,8 +14,8 @@ body{
 
 .nav-link{ color: #000000;}
 .logo-brand{
-    min-width: 100px;
-    max-width: 120px;
+    min-width: 120px;
+    max-width: 150px;
 }
 
 .clearfix-padding {
